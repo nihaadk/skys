@@ -58,13 +58,13 @@
     &__rooms,
     &__area,
     &__price {
-        i .fas {
-            height: 1rem;
-            width: 1rem;
-        }
+        font-size: 1.8rem;
+        margin-left: 2rem;
+        display: flex;
+        align-items: center;
 
-        p {
-
+        i {
+            margin-right: 1rem;
         }
     }
 
