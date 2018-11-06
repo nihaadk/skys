@@ -30,12 +30,4 @@
     &::after {
         transform: translateY(1.3rem);
     }
-
-    &:hover:after{
-        transform: translateX(-3px);
-    }
-
-    &:hover:before{
-        transform: translateX(3px);
-    }
 }
